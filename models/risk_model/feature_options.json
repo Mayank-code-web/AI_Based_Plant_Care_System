@@ -1,0 +1,70 @@
+{
+  "plant_type": [
+    "tropical_foliage",
+    "succulent_or_cactus",
+    "flowering",
+    "fern",
+    "herb",
+    "vegetable"
+  ],
+  "light_exposure": [
+    "low_light",
+    "medium_indirect_light",
+    "bright_indirect_light",
+    "direct_sunlight"
+  ],
+  "watering_frequency": [
+    "daily",
+    "every_2_3_days",
+    "weekly",
+    "every_2_weeks",
+    "rarely"
+  ],
+  "humidity_level": [
+    "low_humidity",
+    "moderate_humidity",
+    "high_humidity"
+  ],
+  "soil_type": [
+    "well_draining_mix",
+    "standard_potting_mix",
+    "dense_garden_soil",
+    "waterlogged_soil"
+  ],
+  "pot_drainage": [
+    "good_drainage_holes",
+    "poor_or_no_drainage"
+  ],
+  "fertilizing_frequency": [
+    "never",
+    "rarely",
+    "monthly",
+    "every_2_weeks_growing_season"
+  ],
+  "temperature_range": [
+    "cold_below_12C",
+    "cool_12_18C",
+    "ideal_18_27C",
+    "hot_above_27C"
+  ],
+  "time_since_last_repot": [
+    "repotted_this_year",
+    "1_2_years_ago",
+    "2_5_years_ago",
+    "5_plus_years_or_never"
+  ],
+  "pest_presence": [
+    "yes",
+    "no"
+  ],
+  "leaf_symptom_count": [
+    "none",
+    "one_or_two",
+    "three_or_more"
+  ],
+  "indoor_or_outdoor": [
+    "indoor",
+    "outdoor",
+    "both_seasonal"
+  ]
+}

@@ -1,0 +1,13 @@
+Issue,Soil_Nutrition
+Powdery Mildew,"['Well-draining soil', 'Avoid excess nitrogen which encourages soft growth']"
+Root Rot,"['Chunky, fast-draining mix (add perlite/bark)', 'Avoid compacted, water-retentive soil']"
+Spider Mite Infestation,"['Standard balanced potting mix', 'Keep soil evenly moist to raise ambient humidity']"
+Aphid Infestation,"['Standard balanced potting mix', 'Avoid over-fertilizing with nitrogen']"
+Fungal Leaf Spot,"['Well-draining soil', 'Top-dress with compost']"
+Nitrogen Deficiency,"['Nitrogen-rich balanced fertilizer', 'Organic compost amendment']"
+Overwatering Stress,"['Chunky, fast-draining mix (add perlite/bark)', 'Terracotta pots to aid evaporation']"
+Underwatering Stress,"['Moisture-retentive mix (add coco coir)', 'Mulching the topsoil']"
+Light Deficiency (Etiolation),"['Standard balanced potting mix', 'Balanced fertilizer once growth resumes']"
+Sooty Mold,"['Standard balanced potting mix', 'No special amendment needed']"
+Bacterial Leaf Blight,"['Well-draining soil', 'Avoid overhead irrigation']"
+Mealybug Infestation,"['Standard balanced potting mix', 'Avoid excess nitrogen']"
